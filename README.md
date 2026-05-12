@@ -1,3 +1,5 @@
+
+![Alt text ](images/helo.png)
 # MedSecure Hospital Database System
 
 MedSecure is a modern secure healthcare management platform designed for hospitals and clinics.  
