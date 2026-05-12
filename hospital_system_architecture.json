@@ -1,0 +1,38 @@
+{
+  "project_name": "MedSecure - Hospital Database Encryption & Security System",
+  "technology_stack": {
+    "frontend": [
+      "JSP (JavaServer Pages)",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Bootstrap 5"
+    ],
+    "backend": [
+      "Java (Servlets)",
+      "JDBC"
+    ],
+    "database": [
+      "MySQL/SQL Server"
+    ],
+    "encryption": [
+      "AES-256",
+      "RSA-2048",
+      "TLS 1.3",
+      "SHA-256"
+    ],
+    "server": [
+      "Apache Tomcat 9.0+"
+    ],
+    "architecture_pattern": "MVC (Model-View-Controller)"
+  },
+  "modules_count": 4,
+  "advanced_features_count": 15,
+  "compliance_standards_count": 9,
+  "module_summary": {
+    "Member_Module": "Patient interface with 10+ features and 5 security layers",
+    "Group_Manager_Module": "Healthcare provider dashboard with RBAC and 5 role types",
+    "TPA_Module": "Authentication gateway with 6 authentication methods",
+    "Cloud_Module": "4-layer encryption architecture with multi-cloud storage"
+  }
+}
